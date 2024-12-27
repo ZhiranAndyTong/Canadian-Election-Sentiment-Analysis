@@ -10,7 +10,7 @@ In this project, we developed an automated ETL pipeline to crawl Reddit comments
 
 [Video Presentation](https://drive.google.com/file/d/12Frf1zKLjWzxIBXkFeni1EzBZjPkalFC/view)
 
-[Dashboard](hhttps://github.com/ZhiranAndyTong/Canadian-Election-Sentiment-Analysis/blob/ddaf435034a7089485419f8688da6d1c434bd91e/Final%20Project%20Dashboard-2.pbix)
+[Dashboard](https://github.com/ZhiranAndyTong/Canadian-Election-Sentiment-Analysis/blob/ddaf435034a7089485419f8688da6d1c434bd91e/Final%20Project%20Dashboard-2.pbix)
 
 ## Crawling Reddit Data Setup
 1. Clone the repository.
