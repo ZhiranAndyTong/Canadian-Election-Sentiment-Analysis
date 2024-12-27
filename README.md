@@ -15,7 +15,7 @@ In this project, we developed an automated ETL pipeline to crawl Reddit comments
 ## Crawling Reddit Data Setup
 1. Clone the repository.
    ```bash
-    git clone hhttps://github.com/ZhiranAndyTong/Canadian-Election-Sentiment-Analysis.git
+    git clone https://github.com/ZhiranAndyTong/Canadian-Election-Sentiment-Analysis.git
    ```
 2. Create a virtual environment.
    ```bash
